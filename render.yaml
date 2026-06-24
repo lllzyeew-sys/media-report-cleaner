@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: plaud-media-report-cleaner
+    env: docker
+    plan: starter
+    autoDeploy: true
