@@ -9,7 +9,7 @@ from openpyxl.utils import get_column_letter
 
 st.set_page_config(page_title="PLAUD Media Report Cleaner", layout="wide")
 
-APP_TITLE = "PLAUD Media Report Cleaner"
+APP_TITLE = "Plaud Media Report Cleaner"
 
 TITLE_FIELDS = ["title", "headline", "article title", "name"]
 HIT_FIELDS = ["hit sentence", "hit text", "snippet", "opening text", "summary", "description"]
